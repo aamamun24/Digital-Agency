@@ -3,6 +3,9 @@
     margin: 0;
     padding: 0;
 }
+.primary{
+    color: rgb(245, 44, 44);
+}
 
 /* header related styles */
 .nav-container{
@@ -55,4 +58,30 @@
 .banner-details{
     width: 100%;
     margin: auto;
+}
+.title{
+    font-size: 85px;
+    font-weight: 900px;
+    color: white;
+}
+.banner-description{
+    width: 50%;
+    margin: 0 auto;
+    padding: 10px;
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.btn{
+    padding: 15px 25px;
+    background-color: rgb(245, 44, 44);
+    color: white;
+    font-size: 20px;
+    border: none;
+    border-radius: 5px;
+    margin: 5px;
+}
+.btn-hire{
+    color: black;
+    background-color: white;
 }
